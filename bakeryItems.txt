@@ -1,0 +1,86 @@
+BakeryItemID	BakeryItemName	Category	Price
+1	Almond Croissant	Pastries	3.00
+2	Apple	Pies	16.00
+3	Apple Crumb	Pies	17.00
+4	Apple Spice - Autumn	Cakes	24.00
+5	Banana Cream	Pies	16.00
+6	Black Forest	Cakes	22.00
+7	Black Walnut	Cakes	22.00
+8	Blackberry	Pies	17.00
+9	Blueberry	Pies	16.00
+10	Brownies	Pastries	2.00
+11	Buche de Noel (Christmas Cake)- Winter	Cakes	32.00
+12	Butter Pecan	Cookies	1.50
+13	Butterscotch	Cookies	3.00
+14	Candy Cane- Winter	Cupcakes	2.50
+15	Cannoli, Chocolate Chip	Pastries	2.75
+16	Cannoli, Plain	Pastries	2.50
+17	Caramel Mocha Latte	Cupcakes	3.00
+18	Carrot Cake	Cakes	28.00
+19	Carrot Cake	Cupcakes	2.00
+20	Cheesecake	Cakes	22.50
+21	Cheesecake, strawberry	Cakes	25.00
+22	Cherry	Pies	17.00
+23	Chocolate Amaretto	Cupcakes	2.50
+24	Chocolate Banana Walnut	Cookies	2.00
+25	Chocolate Chess	Pies	13.00
+26	Chocolate Chip	Cookies	1.50
+27	Chocolate Croissant	Pastries	3.50
+28	Chocolate Mousse Cup	Pastries	5.00
+29	Chocolate Strawberries	Pastries	2.00
+30	Coconut	Cakes	22.50
+31	Coconut Cream	Pies	18.50
+32	Cookies n' Cream	Cakes	22.00
+33	Cookies n' Cream	Cupcakes	1.50
+34	Cranberry Orange	Cookies	3.00
+35	Cranberry Walnut	Cookies	3.00
+36	Cream Puffs	Pastries	2.50
+37	Crème Brulee	Pastries	2.50
+38	Easter Creme Cake- Spring	Cakes	17.00
+39	Éclair	Pastries	4.00
+40	French french vanilla	Cupcakes	3.00
+41	French Silk	Pies	12.00
+42	French Vanilla	Cakes	22.00
+43	Fruit Tartlette	Pastries	4.00
+44	Fudge Brownie	Cookies	3.00
+45	Fudge Chocolate	Cookies	3.50
+46	Fudge Marble	Cakes	24.00
+47	German Chocolate	Cakes	24.00
+48	Ginger Shortbread	Cookies	2.75
+49	Gingerbread - Winter	Cakes	17.00
+50	Hummingbird - Summer	Cakes	19.00
+51	Italian Rum	Cakes	22.00
+52	Key Lime	Pies	12.00
+53	Key Lime Tartlette	Pastries	4.00
+54	Lemon	Cakes	22.50
+55	Lemon Bar	Pastries	3.75
+56	Lemon Blueberry - Summer	Cakes	21.50
+57	Lemon Drop	Cupcakes	3.00
+58	Lemon Meringue	Pies	13.50
+59	Lemon Sugar	Cookies	3.50
+60	Mango Mousse Cup	Pastries	2.50
+61	Mini Cheesecake, Plain	Pastries	2.50
+62	Mini Cheesecake, Strawberry	Pastries	3.00
+63	Oatmeal Raisin	Cookies	1.50
+64	Orange Creamsicle	Cupcakes	3.00
+65	Peach	Pies	15.50
+66	Peanut Butter	Cookies	3.00
+67	Peanut Butter Chocolate	Pies	17.50
+68	Peanut Butter Cup	Cupcakes	5.00
+69	Pecan	Pies	24.00
+70	Pineapple Coconut	Cupcakes	3.00
+71	Pumpkin	Pies	13.00
+72	Pumpkin Spice - Autumn	Cakes	22.00
+73	Pumpkin Spice- Autumn	Cupcakes	2.50
+74	Rasberry Chocolate Tartlette	Pastries	3.00
+75	Red Velvet	Cakes	21.50
+76	Red Velvet	Cupcakes	2.50
+77	S'mores - Summer	Cupcakes	3.00
+78	Snickerdoodle	Cookies	2.00
+79	Strawberry Cream	Cupcakes	2.50
+80	Strawberry Cream	Pies	15.00
+81	Strawberry Swirl	Cakes	23.00
+82	Sugar	Cookies	2.00
+83	Sweet Potato	Pies	12.00
+84	Tiramisu	Pastries	4.00
+85	Triple Berry Shortcake - Summer	Cakes	22.50

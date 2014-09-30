@@ -1,0 +1,48 @@
+CustomerID	LastName	Address	City	State	ZipCode	OrderID	Paid?	OrderDate	PickupDate	BakeryItemID	BakeryItemName	BakeryItemCategory	Quantity	Price	Total	DiscountUsedOnOrder	TotalDue	AvailableDiscount	CurrentLoyalty
+56	Robinson	634 Oak Ave.	Raleigh	NC	27612	101	Yes	11/5/10	12/31/10	8	Blackberry	Pies	1	17.00	17.00	0.00	17.00	0.00	17.00
+33	Bittiman	1122 Glenwood Ave.	Durham	NC	27609	102	Yes	11/12/10	12/15/10	14	Candy Cane- Winter	Cupcakes	2	2.50	5.00	0.00	5.00	0.00	5.00
+22	Williams	123 Garden Plow Way	Durham	NC	27609	103	Yes	11/26/10	12/18/10	81	Strawberry Swirl	Cakes	1	23.00	23.00	0.00	23.00	0.00	23.00
+2	George	789 Brewer St.	Cary	NC	27513	104	Yes	12/2/10	12/4/10	19	Carrot Cake	Cupcakes	2	2.00	96.00	0.00	96.00	0.00	96.00
+2	George	789 Brewer St.	Cary	NC	27513	104	Yes	12/2/10	12/4/10	34	Cranberry Orange	Cookies	1	3.00	96.00	0.00	96.00	0.00	96.00
+2	George	789 Brewer St.	Cary	NC	27513	104	Yes	12/2/10	12/4/10	54	Lemon	Cakes	3	22.50	96.00	0.00	96.00	0.00	96.00
+2	George	789 Brewer St.	Cary	NC	27513	104	Yes	12/2/10	12/4/10	56	Lemon Blueberry - Summer	Cakes	1	21.50	96.00	0.00	96.00	0.00	96.00
+15	Smith	123 Hill Top Drive	Garner	NC	27610	105	Yes	12/4/10	12/19/10	10	Brownies	Pastries	1	2.00	38.00	0.00	38.00	0.00	38.00
+15	Smith	123 Hill Top Drive	Garner	NC	27610	105	Yes	12/4/10	12/19/10	38	Easter Creme Cake- Spring	Cakes	1	17.00	38.00	0.00	38.00	0.00	38.00
+15	Smith	123 Hill Top Drive	Garner	NC	27610	105	Yes	12/4/10	12/19/10	50	Hummingbird - Summer	Cakes	1	19.00	38.00	0.00	38.00	0.00	38.00
+19	Freeman	78-A Meadowview Ln.	Durham	NC	27609	106	Yes	12/4/10	12/23/10	23	Chocolate Amaretto	Cupcakes	2	2.50	8.50	0.00	8.50	0.00	8.50
+19	Freeman	78-A Meadowview Ln.	Durham	NC	27609	106	Yes	12/4/10	12/23/10	27	Chocolate Croissant	Pastries	1	3.50	8.50	0.00	8.50	0.00	8.50
+18	Love	7825 Venice Ct.	Raleigh	NC	27605	107	Yes	12/6/10	12/24/10	28	Chocolate Mousse Cup	Pastries	1	5.00	7.50	0.00	7.50	0.00	7.50
+18	Love	7825 Venice Ct.	Raleigh	NC	27605	107	Yes	12/6/10	12/24/10	73	Pumpkin Spice- Autumn	Cupcakes	1	2.50	7.50	0.00	7.50	0.00	7.50
+7	Hinton	1011 Hodge Ln.	Cary	NC	27513	108	Yes	12/8/10	12/15/10	33	Cookies n' Cream	Cupcakes	2	1.50	9.50	0.00	9.50	0.00	9.50
+7	Hinton	1011 Hodge Ln.	Cary	NC	27513	108	Yes	12/8/10	12/15/10	63	Oatmeal Raisin	Cookies	1	1.50	9.50	0.00	9.50	0.00	9.50
+7	Hinton	1011 Hodge Ln.	Cary	NC	27513	108	Yes	12/8/10	12/15/10	73	Pumpkin Spice- Autumn	Cupcakes	1	2.50	9.50	0.00	9.50	0.00	9.50
+7	Hinton	1011 Hodge Ln.	Cary	NC	27513	108	Yes	12/8/10	12/15/10	79	Strawberry Cream	Cupcakes	1	2.50	9.50	0.00	9.50	0.00	9.50
+1	Beckham	7 East Walker Dr.	Raleigh	NC	27612	109	Yes	12/13/10	12/14/10	52	Key Lime	Pies	2	12.00	139.00	0.00	139.00	10.00	39.00
+1	Beckham	7 East Walker Dr.	Raleigh	NC	27612	109	Yes	12/13/10	12/14/10	67	Peanut Butter Chocolate	Pies	4	17.50	139.00	0.00	139.00	10.00	39.00
+1	Beckham	7 East Walker Dr.	Raleigh	NC	27612	109	Yes	12/13/10	12/14/10	85	Triple Berry Shortcake - Summer	Cakes	2	22.50	139.00	0.00	139.00	10.00	39.00
+3	Smith	211 St. George Ave.	Garner	NC	27610	110	Yes	12/13/10	12/16/10	6	Black Forest	Cakes	1	22.00	22.00	0.00	22.00	0.00	22.00
+9	Clayton	2516 Newman	Raleigh	NC	27606	111	Yes	12/14/10	12/23/10	14	Candy Cane- Winter	Cupcakes	1	2.50	2.50	0.00	2.50	0.00	2.50
+10	Williams	9014 Miller Ln.	Durham	NC	27714	112	Yes	12/14/10	12/24/10	6	Black Forest	Cakes	2	22.00	46.50	0.00	46.50	0.00	46.50
+10	Williams	9014 Miller Ln.	Durham	NC	27714	112	Yes	12/14/10	12/24/10	14	Candy Cane- Winter	Cupcakes	1	2.50	46.50	0.00	46.50	0.00	46.50
+11	Jones	456 Denver Rd.	Cary	NC	27513	113	Yes	12/19/10	12/30/10	65	Peach	Pies	1	15.50	15.50	0.00	15.50	0.00	15.50
+9	Clayton	2516 Newman	Raleigh	NC	27606	114	Yes	12/22/10	12/31/10	16	Cannoli, Plain	Pastries	1	2.50	4.50	0.00	4.50	0.00	7.00
+9	Clayton	2516 Newman	Raleigh	NC	27606	114	Yes	12/22/10	12/31/10	19	Carrot Cake	Cupcakes	1	2.00	4.50	0.00	4.50	0.00	7.00
+1	Beckham	7 East Walker Dr.	Raleigh	NC	27612	115	Yes	12/23/10	12/24/10	19	Carrot Cake	Cupcakes	3	2.00	93.00	-10.00	83.00	10.00	22.00
+1	Beckham	7 East Walker Dr.	Raleigh	NC	27612	115	Yes	12/23/10	12/24/10	79	Strawberry Cream	Cupcakes	2	2.50	93.00	-10.00	83.00	10.00	22.00
+1	Beckham	7 East Walker Dr.	Raleigh	NC	27612	115	Yes	12/23/10	12/24/10	46	Fudge Marble	Cakes	2	24.00	93.00	-10.00	83.00	10.00	22.00
+1	Beckham	7 East Walker Dr.	Raleigh	NC	27612	115	Yes	12/23/10	12/24/10	49	Gingerbread - Winter	Cakes	2	17.00	93.00	-10.00	83.00	10.00	22.00
+5	Jones	23 Solo Ln.	Durham	NC	27609	116	Yes	12/25/10	12/30/10	15	Cannoli, Chocolate Chip	Pastries	2	2.75	28.00	0.00	28.00	0.00	28.00
+5	Jones	23 Solo Ln.	Durham	NC	27609	116	Yes	12/25/10	12/30/10	16	Cannoli, Plain	Pastries	3	2.50	28.00	0.00	28.00	0.00	28.00
+5	Jones	23 Solo Ln.	Durham	NC	27609	116	Yes	12/25/10	12/30/10	17	Caramel Mocha Latte	Cupcakes	5	3.00	28.00	0.00	28.00	0.00	28.00
+22	Williams	123 Garden Plow Way	Durham	NC	27609	117	No	2/16/11	3/10/11	18	Carrot Cake	Cakes	1	28.00	53.50	0.00	53.50	0.00	76.50
+22	Williams	123 Garden Plow Way	Durham	NC	27609	117	No	2/16/11	3/10/11	28	Chocolate Mousse Cup	Pastries	1	5.00	53.50	0.00	53.50	0.00	76.50
+22	Williams	123 Garden Plow Way	Durham	NC	27609	117	No	2/16/11	3/10/11	62	Mini Cheesecake, Strawberry	Pastries	2	3.00	53.50	0.00	53.50	0.00	76.50
+22	Williams	123 Garden Plow Way	Durham	NC	27609	117	No	2/16/11	3/10/11	29	Chocolate Strawberries	Pastries	1	2.00	53.50	0.00	53.50	0.00	76.50
+22	Williams	123 Garden Plow Way	Durham	NC	27609	117	No	2/16/11	3/10/11	19	Carrot Cake	Cupcakes	1	2.00	53.50	0.00	53.50	0.00	76.50
+22	Williams	123 Garden Plow Way	Durham	NC	27609	117	No	2/16/11	3/10/11	43	Fruit Tartlette	Pastries	2	4.00	53.50	0.00	53.50	0.00	76.50
+22	Williams	123 Garden Plow Way	Durham	NC	27609	117	No	2/16/11	3/10/11	73	Pumpkin Spice- Autumn	Cupcakes	1	2.50	53.50	0.00	53.50	0.00	76.50
+14	Hill	2100 Field Ave.	Durham	NC	27609	118	No	3/3/11	3/17/11	28	Chocolate Mousse Cup	Pastries	1	5.00	22.00	0.00	22.00	0.00	22.00
+14	Hill	2100 Field Ave.	Durham	NC	27609	118	No	3/3/11	3/17/11	68	Peanut Butter Cup	Cupcakes	1	5.00	22.00	0.00	22.00	0.00	22.00
+14	Hill	2100 Field Ave.	Durham	NC	27609	118	No	3/3/11	3/17/11	83	Sweet Potato	Pies	1	12.00	22.00	0.00	22.00	0.00	22.00
+6	Boyd	4 Cypress Cr.	Durham	NC	27714	119	Yes	3/10/11	3/16/11	19	Carrot Cake	Cupcakes	1	2.00	2.00	0.00	2.00	0.00	2.00
+2	George	789 Brewer St.	Cary	NC	27513	120	No	3/13/11	3/15/11	12	Butter Pecan	Cookies	1	1.50	1.50	0.00	1.50	0.00	97.50
