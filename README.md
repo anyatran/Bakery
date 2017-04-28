@@ -1,7 +1,5 @@
-RUN THE PROGRAM:
- Go to program's directory and type these commands:
- 	- javac Run.java
- 	- java Run
+# Bakery
+The final project for OOD class. Credits to Anya Tran and Rob Jensen
 
 The Bakery software uses a console-based menu system for navigation.
 The main menu is divided into three main sections: client management,
@@ -12,7 +10,7 @@ Each submenu provides procedures for adding and updating data, as well as
 special functionality depending on the section type.
 
 By default, when the interface is launched it will load data from two
-files "bakeryItems.txt" and "orders.txt" which contain the inventory
+files `bakeryItems.txt` and `orders.txt` which contain the inventory
 and order data respectively. To load an empty bakery, simply do not supply
 these files in the program directory.
 
@@ -27,5 +25,10 @@ and unpaid orders.
 In the inventory submenu (item 3 on the main menu), one can add and update
 inventory items as well as view a menu of items available.
 
-One can also export all store data to "orders1.txt" and "bakeryItems1.txt"
-by selecting item 4 on the main menu, "Export data".
+One can also export all store data to `orders1.txt` and `bakeryItems1.txt`
+by selecting item 4 on the main menu, `Export data`.
+
+## Setup
+Go to program's directory and type these commands:
+1. `javac Run.java`
+2. `java Run`
